@@ -34,3 +34,26 @@ background-repeat: no-repeat;
 
 
  }
+
+
+.imgexcel{
+
+height: 300px;
+width: 400px;
+background-image:url(imagen.png);
+background-repeat:no-repeat;
+
+
+}
+.imgexcel2{
+height: 400px;
+width: 400px;
+background-image:url(imagen2.jpg);
+background-repeat: no-repeat;
+}
+
+
+
+
+
+
