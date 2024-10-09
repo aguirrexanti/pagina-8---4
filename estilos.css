@@ -38,8 +38,8 @@ background-repeat: no-repeat;
 
 .imgexcel{
 
-height: 300px;
-width: 400px;
+height: 500px;
+width: 1000px;
 background-image:url(imagen.png);
 background-repeat:no-repeat;
 
@@ -53,6 +53,99 @@ background-repeat: no-repeat;
 }
 
 
+.imglogo{
+
+height: 500px;
+width: 500px;
+background-image: url(imagen\ 3.png);
+background-repeat: no-repeat;
+
+}
+
+.imgmapa{
+height: 700px;
+width: 1670px;
+background-image: url(mapaconceptual.webp);
+background-repeat: no-repeat;
+
+
+
+}
+
+
+
+.imgingles{
+
+height: 500px;
+width: 500px;
+background-image:url(imageningles1.webp);
+background-repeat: no-repeat;
+
+
+}
+
+.imgingles2{
+
+height: 300px;
+width: 500px;
+background-image: url(imgingles2.jpg);
+background-repeat: no-repeat;
+
+
+}
+
+.imgingles3{
+
+height: 500px;
+width: 850px;
+background-image: url(imgingles.jpg);
+background-repeat: no-repeat;
+
+
+}
+
+.imgingles4{
+
+height: 500px;
+width: 1200px;
+background-image: url(imgingles4.jpg);
+background-repeat: no-repeat;
+
+
+
+}
+
+
+.imgingles5{
+height: 500px;
+width: 900px;
+background-image: url(imgingles5.avif);
+background-repeat: no-repeat;
+
+
+}
+
+.imgingles6{
+
+
+height: 500px;
+width: 1500px;
+background-image: url(imgingles6.webp);
+background-repeat: no-repeat;
+
+
+}
+
+.imgingles7{
+
+height: 430px;
+width: 920px;
+background-image: url(imgingles7.jpeg);
+background-repeat: no-repeat;
+
+
+
+}
 
 
 
